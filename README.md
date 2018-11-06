@@ -2,17 +2,4 @@
 capstone project 2018
 
 
-Uploaded files.  
-Updates to jazz-style.css to include classes for displaying the row letter and number of seats<br>
-included classes for decorating the buttons<br>
-Created the index.jsp page.  Used test.html as template. <br>
-Added the row information, cleaned up indenting, and removed borders from 
-the table used in the contact form.<br>
-I added the instructions and navigation links to the main section.<br>
-Also added some classes to the css file.<br>
-Added titles to the reservation and seats section<br>
-Edited the chart in seating area to include rows & seats available per row.<br>
-uploaded a zip file with the programming elements I have worked on so far.<br>
-display number of available seats per row <br>
-add  customer information and reservation info to the db using the form.<br>
-
+This site is a web application project was created as a concept site for a business called Jazzervations.  The purpose of this site it to accept and process customer reservations for a concert hall.  The web application allows customers to enter information, choose what section they want to purchase the tickets in, and also enter ticket order delivery type information. This project uses HTML5, CSS3, JSP, and MySQL to accept the customer input into a form, process and calculate price based on information entered, display purchase confirmation information to the customer, and keep track of ticket sales and information in a database. I was the lead front-end developer for this project, and help assist with back-end processing of the application. for developing the web design and forms.  
